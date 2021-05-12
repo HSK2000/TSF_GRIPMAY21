@@ -1,5 +1,4 @@
 # TSF_GRIPMAY21
-#GRIPMAY21 Internship Task 1 Submission
 
 The Sparks Foundation #GRIPMAY21 : Data Science and Business Analytics Internship
 Task 1 : Prediction Using Supervised Machine Learning Algorithm.
