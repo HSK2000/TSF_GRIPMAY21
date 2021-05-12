@@ -1,7 +1,7 @@
 # TSF_GRIPMAY21
 #GRIPMAY21 Internship Task 1 Submission
 
-The_Sparks_Foundation #GRIPAPRIL21 : Data Science and Business Analytics Internship
+The Sparks Foundation #GRIPMAY21 : Data Science and Business Analytics Internship
 Task 1 : Prediction Using Supervised Machine Learning Algorithm.
 
 problem statement: Predict The Percentage of a student based on the number of study hours.
